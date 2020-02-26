@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rating
+comment1.params=anItem\ aValue
+comment1.target=Rating(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getItem()
+comment3.params=
+comment3.target=double\ getValue()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=other
+comment5.target=int\ compareTo(Rating)
+numComments=6
