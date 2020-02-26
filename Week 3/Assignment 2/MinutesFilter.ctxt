@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MinutesFilter
+comment0.text=\r\n\ MinutesFilter\ can\ be\ used\ to\ extract\ movies\ with\ length\ in\ between\ minimum\ and\ maximum\r\n\ specified\ minutes\ specified\ in\ the\ method\ parameter.\r\n\ \r\n\ @\ Konstantin\ Krumin\r\n\ @\ Version\:\ 1.0\ (February\ 20,\ 2020)\r\n
+comment1.params=min\ max
+comment1.target=MinutesFilter(int,\ int)
+comment2.params=id
+comment2.target=boolean\ satisfies(java.lang.String)
+numComments=3
