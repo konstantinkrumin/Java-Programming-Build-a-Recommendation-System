@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Filter
+comment1.params=id
+comment1.target=boolean\ satisfies(java.lang.String)
+numComments=2

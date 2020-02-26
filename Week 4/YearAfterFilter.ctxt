@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=YearAfterFilter
+comment0.text=\r\n\ \r\n\ YearAfterFilter\ can\ be\ used\ to\ extract\ only\ movies\ released\ after\ a\ particular\ year\ specified\r\n\ in\ the\ method\ parameter.\r\n\ \r\n
+comment1.params=year
+comment1.target=YearAfterFilter(int)
+comment2.params=id
+comment2.target=boolean\ satisfies(java.lang.String)
+numComments=3
